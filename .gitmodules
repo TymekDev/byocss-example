@@ -1,0 +1,3 @@
+[submodule "themes/byocss"]
+	path = themes/byocss
+	url = https://git.sr.ht/~tymek/byocss
